@@ -1,0 +1,7 @@
+invalid.com 1
+missing.at.sign 2
+john@doe 1
+short@suffix.ab 1
+invalid@twoletters.ab 1
+test@no-dot 1
+empty@suffix. 1

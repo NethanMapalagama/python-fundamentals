@@ -1,0 +1,16 @@
+valid@gmail.com
+another.valid@yahoo.com
+invalid.com
+missing.at.sign
+john@doe
+short@suffix.ab
+valid@threeletters.abc
+invalid@twoletters.ab
+test@no-dot
+empty@suffix.
+@missinglocal.com
+space in@email.com
+valid.with.dots@domain.com
+invalid@.com
+valid@sub.domain.com
+invalid@domain..com
